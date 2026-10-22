@@ -1,0 +1,9 @@
+langchain-community 
+langchain-ollama
+langchain-classic
+langchain-chroma
+openai-whisper
+chromadb
+fastapi
+uvicorn
+pydantic

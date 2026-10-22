@@ -1,0 +1,8 @@
+.venv/
+.venv-1/
+chromadb/
+.env
+__pycache__/
+.ipynb_checkpoints/
+audio/
+transcripts/
